@@ -6,7 +6,6 @@ Personal portfolio site. Built with plain HTML, CSS, and JS. No frameworks, no b
 
 ```
 index.html          Main portfolio page
-velox.html          Hidden project page (not linked from index)
 images/             Screenshots and profile photo
 ```
 
